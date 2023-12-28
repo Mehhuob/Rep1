@@ -1,0 +1,26 @@
+{
+  "name": "Terry Waters",
+  "age": 51,
+  "address": {
+    "street": "Lawipu Plaza",
+    "city": "Navuaga",
+    "state": "DC",
+    "zip": "88138"
+  },
+  "contact": {
+    "phone": "(740) 901-3541",
+    "servicePhone": "800892824"
+  },
+  "birthday": "1965-08-13T08:05:13.130Z",
+  "ip": "110.163.210.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Fehrarri mud ukimivo las hotza evuab meboffi ubatisag mowda maf vejalot pi pab fec lipejo fuwko fic. Rizvos amime iz cokitjug juwzal mac fojap je kofrof kecli lo wohajjit ziv. Soh tiv olnusop ememale nijukkol go ewjib ozra sigirsa zifriwkag facsasjum recirde riul ulu ti. Wiocu zewvo cabonzo hopatet medocir namuvpeh vovi satazuit tapab ceefieb ladfopata erzi. Mivalagov nop bajow cecmu be tih apgi sadzivda hi oculu madap rorvu kolkut se nagkej hi vejopoc. Voecuiz cuac jolpej muv abi bek voeduleh bisu oveage odubevbug wubijve digo ogi.",
+    "bio": "Ca si bikrowu mo zegho gekrevsi rilebe wej zibilsar we jikmiaw dak ilunesobo cictojhug. Sadpu vifapfe pa ebiitcub kaesi kuziuwo pemud ku zugegena egnuci da emifab baw zegofmu fu caneni pegzotef. Lukumbu sod hosig girbe ar kidiwke nud hovu zen hizuwole neasuroj folud nu bag hij. Rewa wigali rof guzcaja rafa ulnago urkezse uzovekbu toeji buz lu pi ajlioze webvo."
+  },
+  "apiKey": "5bf3ce0f4a8d2806bb65aaf0381b4942dc2a4ea4ed1f641859f6412b8ddf7ed5",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
