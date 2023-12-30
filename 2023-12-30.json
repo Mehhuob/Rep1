@@ -1,0 +1,26 @@
+{
+  "name": "Adeline Hopkins",
+  "age": 53,
+  "address": {
+    "street": "Cemsug Boulevard",
+    "city": "Joheago",
+    "state": "MN",
+    "zip": "68755"
+  },
+  "contact": {
+    "phone": "(923) 305-5549",
+    "servicePhone": "800389225"
+  },
+  "birthday": "1972-08-26T05:05:13.556Z",
+  "ip": "226.241.75.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Hiffez za jof himosa mig guw josobcun dizham zudib powred uvda sa tiz deilu or otal visuldon juce. Di gok homnimmu nozuzi sijreigo tappir hek jasuceh ko sinuzsez ocwakdi zigubu doptis. Pizege osefja raopora si tojulahaw wubkos rip we ab sosozij subdij di azoce lo mifra aziig jival mapza.",
+    "bio": "Sof huk zal jombimir ani busji eso ras amhuj zeg eroej acuwi zegiov mi wo. Pot rat cuwog fufur ge ebcurur vocnedvi feero azra narrit ovevikbu ko fuuge. Zigfen pedkezna lob fekelesa ko biugge dah karnodaf aboze modihit ke cuhor nuj."
+  },
+  "apiKey": "1a630c4612b05553ae9747fa5f66f1403760f0770ccc24d4b1eeab2877762ee8",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
