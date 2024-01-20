@@ -1,0 +1,26 @@
+{
+  "name": "Ray Cain",
+  "age": 56,
+  "address": {
+    "street": "Sulu Circle",
+    "city": "Eseomesa",
+    "state": "TN",
+    "zip": "44863"
+  },
+  "contact": {
+    "phone": "(571) 524-3130",
+    "servicePhone": "800287954"
+  },
+  "birthday": "1993-05-27T02:27:08.682Z",
+  "ip": "232.30.82.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Mofov nen gekak al bipik cisnedu ze adlianu oniwiza eca ake cine mocsap poda zijlal weova. Bod bunicsa wa his napuku med ehkadpo dag mu zucta agugik ugfo zewala bevarej fu necnijofu johoc favpasgo. Opu hip lon ejuwu kuk ek afibo um go heju teaw zaofaat ze firum zic pe.",
+    "bio": "Joc ruudbat hosus avwiliv fatceg nujwo iwizo rib rigemge rum bed onuhes sogfocab awedozkiv ohioclek le icave asarogko. Nu ciku gihwuffi na onza bo ecohotne nebap code ihupoj rassivo nucaf civaep su vomom. Dalit wooko vabimro duh irejeuj pebnezcit uz eb not rej ucrafu fabociv zifuda lom. Gulduwude bibcobiw lej ce wirgi silenev husif weivu eknolow ipi juzbap has ava be ote."
+  },
+  "apiKey": "9dfe7e7231cc4e8012471808cac26b36f2c6142264a211616703e6b2dfc100b8",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
