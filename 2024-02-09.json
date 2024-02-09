@@ -1,0 +1,26 @@
+{
+  "name": "Willie Ortega",
+  "age": 50,
+  "address": {
+    "street": "Desfab Plaza",
+    "city": "Amudede",
+    "state": "KS",
+    "zip": "48851"
+  },
+  "contact": {
+    "phone": "(600) 948-5203",
+    "servicePhone": "800754854"
+  },
+  "birthday": "1959-08-26T02:29:11.508Z",
+  "ip": "251.95.51.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Beh eniz hodwup fifev imwizzaf gigse iki su weaf dudupegu og akmuhiz. Uvi levpezu ohonace amjak ihfaka pis peec mame av cofid sul rabiuw girasuac jiwge wanroup. Nuk ve dubpohu ece zozwael no gufof lu vem bapu ded tivnad ovja ud hojvuna ebtu. Si haj bo on em kepa dul sub wej hucmeab co geino sismu fi ifwe keklo.",
+    "bio": "Luppul fofovow zokazrif dietceg kelli uhevi naufeabe porafno hezsat wi riju mikcean. Tavetkiv digpovle mu buzuumi hecaswa zacnabjij vaoso joib kauv vuhe jidbejiv wizrobsuj tubivsim gasipe bimbaccuj magkoj zowawu. Hepetoz vu zeh osi seotwu lupuc mikurna aturew pisodehep gof uv pi."
+  },
+  "apiKey": "40e345b6e898710ffdf55f83a9fd7e3d56370f669b6b68ae3ad7ae3243a76735",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
