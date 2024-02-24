@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Glover",
+  "age": 19,
+  "address": {
+    "street": "Ujaje Center",
+    "city": "Lunwulu",
+    "state": "MD",
+    "zip": "43845"
+  },
+  "contact": {
+    "phone": "(347) 711-1899",
+    "servicePhone": "800992226"
+  },
+  "birthday": "2004-02-17T05:17:33.664Z",
+  "ip": "154.12.159.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe gurullu odpan palgesa fizpeggal ivfevu hador hoej mafriw seguwwa obzi vennu me. Tij budige amodanje aviacci foh ko tegpir jokji fa jaw vuicu imrurpa moaja eru tomehon riljom moeri kichaw. Hi ufa ne hoctolu vo vinamo em vomi bigjaj ficceto rezgino ejpafa pil juhcuhe si inlezta.",
+    "bio": "Hu biib ovgi gubhi tem zim utazup duguvir suzze cemfa hohofup deze upuvaan. Vugtassup weror uhawipdi fepzuvof zofi gu pi re juoj boltis hibisvas kos gadjobu wog. Ov co irta isodupur ecnu lozihpos ebigikac cih coogo za ovuc uwoje jinarwap uc od. Ki uwoawi man tu coti lo re gipvecuz calhozu feumehiw afufule nov do tamtiz gom. Mu kopudju urkotdet sa uni ri wusjidit vafed riwad lodub ic co."
+  },
+  "apiKey": "2aaca44a2cea275c50de1e69106f1fc64c314e05220df75fc52de7664277ea95",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
