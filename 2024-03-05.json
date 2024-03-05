@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Rodriguez",
+  "age": 30,
+  "address": {
+    "street": "Zomaw Glen",
+    "city": "Ivuufaz",
+    "state": "MO",
+    "zip": "44677"
+  },
+  "contact": {
+    "phone": "(206) 593-7065",
+    "servicePhone": "800378164"
+  },
+  "birthday": "1996-01-13T08:32:23.057Z",
+  "ip": "142.185.235.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci sem otber po ohewimof uzaboc foehwe nilvo dije tin wugtakre mujerefe bezhusled cuprahbac di im bunug rohzi. Uma supke nikah va ruwwegtur ecojez purku kurmofe fuhugka fo faj kalno lewu ubalutov. Tilnij idokud nuwibmam huf agoceze ew mej civdav agojo uw zu rased cerhegka kijapaog bifo febi.",
+    "bio": "Ovloval uhukuncaj po mak rigcavi co hurem if rir pupi hive luah. Lalpompod adifa rusoput co caj vaf ewek ku ighuru dakapu bow ojmanpa supo porcafit hefpeedo tulraofi. Sabeljuv mig tob evias iv na aguce bahekure wafegetiz cu fihno cu zufhalu."
+  },
+  "apiKey": "039d2aec32b16589aa64af08a1f51161e1c9c0e6fd187874af5c1d23475c69d0",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
