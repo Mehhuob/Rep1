@@ -1,0 +1,26 @@
+{
+  "name": "Danny McDonald",
+  "age": 27,
+  "address": {
+    "street": "Fajah Mill",
+    "city": "Faavce",
+    "state": "IN",
+    "zip": "59199"
+  },
+  "contact": {
+    "phone": "(239) 530-9329",
+    "servicePhone": "800743233"
+  },
+  "birthday": "1964-12-15T08:34:48.474Z",
+  "ip": "79.249.29.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Zit javzim ebca ticovaf kimichu pegvofoz sodrijil vuhiceti on kovo zamru la vog zik difej lufaw pin. Owo hatnuf aka wi ulgovhab ha zumi hogzo vurtan guoli ebgujhon fidivih uj. Fisbadovo pelzessas dojzeb wumegfir im pi becpo uzlu ze linorgik uk wanfuhda bivsohef. Ris fudozro nofobi jek haz najzitop tebnakuro kutiv udafutut pag isi luclew lelo.",
+    "bio": "Gek mak poipu warzo fe igco niganfi heslogev vejpeb imaved ro ucwa ifko zasuzuki aji epma. Arbim uvit buh gukofasaj kiabfeg ja amaulo kefhetaje ha ciwtajigo powki votaw boz raw budicu. Ogeti te ojomuwliv ici culsev hembenej zu ha poala gikina ru jod bet fo. Tolugaf azelid ro jupcu cegjoh bihur ci git ti itne luho nuzvifim melo vonrolza enuonu diinnu ozu ocanep. Otu nonfovuj cizamefi tiecip va kimefam rirsoca tiacudug libtaf akviris pob suc. Gabweb iv ra tegbere vubtalos etubulim ra wizak tuewdu tuk zej duzbivwo ji rowtuho."
+  },
+  "apiKey": "3f8642a94f90e231b104654bd66601ea4438363f1f5713ac7e094ba7e6533fe1",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
