@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Lambert",
+  "age": 47,
+  "address": {
+    "street": "Diwuf Heights",
+    "city": "Zeehna",
+    "state": "LA",
+    "zip": "11222"
+  },
+  "contact": {
+    "phone": "(964) 911-6672",
+    "servicePhone": "800888796"
+  },
+  "birthday": "1995-01-03T06:31:55.934Z",
+  "ip": "107.222.106.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Tatniav ran imcopfe gelas icoluh wipsido rojjeoh ifagemeb nu kin ro rec. Zi rijic hajadfug cawzu jo inbohah perduput begfeijo dizujo civwun pu sajvori. Nipdab fap ibovi je nepku mat vowkahuk nemi zicabew vu jekrejod ogela cegalwij. Pebojoibo saad parsoba miszo do gegebo icnon jojuva ga zejvi ga vo fin.",
+    "bio": "Wu jagsoh naatok maob tu ruewo viac hiwurwu ciojvoh vagdaznu dokwezus zoedetim erjotaw wolkuhgiz gelof so niseh. Peb duwpon rec vaadwa am nunaradeh kadbu guzeru su si iho bil otma movasba pukce rogtumne lemah vofda. Deakaru vokvu wozmerdan wanuhlok asdo vobipu hip funjun ivka kadjugmos va uwjulonu ho rawiv ki. Fe delasiv ga nazpa pecsem wapacanim mujofbo wug tino hi pi kudam fe binibu bukmoho der agugidu."
+  },
+  "apiKey": "2b6dfd62eec263971012ed6499581b6cc18d8279ae87b62e7a97948156748b31",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
