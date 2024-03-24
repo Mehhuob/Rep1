@@ -1,0 +1,26 @@
+{
+  "name": "Francis Leonard",
+  "age": 60,
+  "address": {
+    "street": "Edhas Plaza",
+    "city": "Detgipsuk",
+    "state": "GA",
+    "zip": "97710"
+  },
+  "contact": {
+    "phone": "(559) 819-1757",
+    "servicePhone": "800612177"
+  },
+  "birthday": "1967-12-18T09:21:51.519Z",
+  "ip": "17.254.60.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Ru wo gelsicno af ari la le riazo utbiha kiw jodor vocubez pizevcuk damumeg. Geocaju gande vukpegko vaewa cu godgemcil cu bad hejfotbe zobifpe gutog led. Ohajemtew lefo zo eculod zuk laligbu pocnil tathu zar vekdajpa li zenipjal. Tes ne ig cerehu paji utotoza rucwen jozuja jegej likej ogzod waw uhi lahoig. Rupe og uzvapa lilap balbobke ja tah piku jipab vev minhuuc zanmohun fup ji juuz kalu uvawhe ugu. Bises nu afo uvewivu hiekwi zihiwhe falci monfukdi nof ijmewe vu bimisaar gemaw mokifuk. Ze zivo tu erbuz gamcekkin vec ze ebrabkat at afwour wib nafve has se moji rut rurazdu.",
+    "bio": "Em ri vor oc fuk avegih fucofra sul hodovse jujfom fi cohcoc zafihos almi vekej birdobi ferhodo. La dofickep di lod heuro fekolu gudavse jokip abvahcig vavcim necdojca bivkeuf. Gedud arje diw ic guminjec uko mameaz he ke lim mume tusu simacer neufefib."
+  },
+  "apiKey": "ba1934a8df47cbd2c0195749ebaa03455e1ee25913b9307b6979ed38cce21a20",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
