@@ -1,0 +1,26 @@
+{
+  "name": "Mark Moody",
+  "age": 36,
+  "address": {
+    "street": "Azvi Glen",
+    "city": "Geijono",
+    "state": "NE",
+    "zip": "94353"
+  },
+  "contact": {
+    "phone": "(350) 356-2708",
+    "servicePhone": "800342179"
+  },
+  "birthday": "1980-02-17T04:59:04.327Z",
+  "ip": "32.93.83.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Avogiiz ojacer ehmuif tasbo kik bufi fim ektejel vawdeufa fofliggaz jucve usozin ruzabifi. Serkada wurnohe enjitfim wijpunaje wa inagiiv liegfic wativga bigaewe gulvu wefi ufa jowda huw beshe lan piewle. Ikred owakun uceot puftozew hel dagfiw nin mu nuis tido egzinge mofek jegwop vipohdow vacutaow lu vatniwap ezeutpos.",
+    "bio": "Timusil vonkudu bekgisgiv itwufolu koug hiziwosu aho ho loja gac dedapij duge vioreli adijas nujamiz wacora kub persubuc. Cisje paritirak ro mibnakon oga resi uca wadsan ciro fobe bo mewavohu kuhowu. Diffak ewosoci ufa zitvi ejasesas rer wuogi kekniuw suamo umoobo wovis negumnap obi."
+  },
+  "apiKey": "16b06a9e9f88984def949a11019a11178e2be9c38ca6423b945ee764eca71167",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
