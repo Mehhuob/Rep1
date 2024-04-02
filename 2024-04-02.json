@@ -1,0 +1,26 @@
+{
+  "name": "Hilda Singleton",
+  "age": 41,
+  "address": {
+    "street": "Wabdo Square",
+    "city": "Guahoha",
+    "state": "KY",
+    "zip": "38312"
+  },
+  "contact": {
+    "phone": "(625) 414-3292",
+    "servicePhone": "800424662"
+  },
+  "birthday": "1971-05-27T06:48:12.236Z",
+  "ip": "185.215.18.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Fosli ni bu asfar za no sebvikwu iv sam ukimoruh so hicotum bazef akizosol ra rir za ewoziwu. Ri zog gu an peufe isulabtud tujnew ovajob jakzakkoc idepak uwalefut cotuf isemubu apujutka. Eda zaprab ni no faninu ulifesos lolgit kofu jevjav imopi resode la ato nirih cifa zawohekik.",
+    "bio": "Fi ep bol jicenito nehviwwub koge ce fepisem epifsuw gu kas risuc. Juh kiew newfug pe secic he asapom te focuz ad rasnos hednehwoj. Ine bobpuepi jadis delifhot ri ofa sig larunwe cejdenud fa umujosij lu ro burog ziato tupona ac zitmetug."
+  },
+  "apiKey": "bd79f6bc590d562454f3f27bba78ff11b6975a443a21770cbd9a94dfaa51a173",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
