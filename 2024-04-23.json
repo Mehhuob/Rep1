@@ -1,0 +1,26 @@
+{
+  "name": "Christian Clayton",
+  "age": 18,
+  "address": {
+    "street": "Bevic Place",
+    "city": "Bubsiimi",
+    "state": "GA",
+    "zip": "39065"
+  },
+  "contact": {
+    "phone": "(540) 512-5938",
+    "servicePhone": "800577284"
+  },
+  "birthday": "1996-01-25T12:32:16.186Z",
+  "ip": "46.31.144.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Ton kadfasu fedozca nisba pubhe buve ejzizu odeizu jujoru isuzoc ewe ulu ri. Mipgej otsiv zunun ho kifsi mo ra moladjuv ado lih weje ilo cazopij ti lel umguwdom eswi. Emoebo hejomaber gesa feuj es litul bewke zeresija goltet fo pipro pah. Lupeci ohmut wezaj ezres nef hannufa fahuroc kolo pufo muf dajiggu jewvawi ippaig nuhutsod ono sub. Jadmugep jewrazu ojuil dovjo ovimuhan wahso kisnahefo fozciw ofoopu put av turazu wo vudeh mo gib. Tuk ge nuwek cifadi keconnet kackaketa sosij vir vimodi fiv pupzit vizifiz bo.",
+    "bio": "Jomof jac duw zef dev ti ursackad fulwubfu inwakaf amij wotwugmaw loiha. Dino res emmake fijacov wol bal on kuigo moippiw comel duta mal musujhi. Ef mibalfiw ec hec lu dujukda dirnolge oto wohafju ila kugu ih rebsoh gauhguh awu zu asice ranoma."
+  },
+  "apiKey": "5ae56dbc7d9b130111427417a4cea9fccd4d991d5cbce73068c03219cb01c50e",
+  "currency": {
+    "code": "IMP",
+    "name": "Isle of Man Pound"
+  }
+}
