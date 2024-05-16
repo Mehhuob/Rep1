@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Armstrong",
+  "age": 53,
+  "address": {
+    "street": "Finuce Park",
+    "city": "Cedatmu",
+    "state": "MD",
+    "zip": "58092"
+  },
+  "contact": {
+    "phone": "(744) 474-8730",
+    "servicePhone": "800429536"
+  },
+  "birthday": "1981-05-17T07:17:04.935Z",
+  "ip": "177.236.13.247",
+  "foo": "bar",
+  "profile": {
+    "about": "To goga jukalpil ijetefob gowamgeh jozje sad umnuf nit enbioj muvi gi os hicofpo kic ufi jomfuw ligosu. Amucirci un afuj kissov sefe ol gemeez pojfuf gileh so sozaowu kadfe owwufum medsad lu buknaz kom. Tulosiko bu ufda gugli zo ahlula ri lirfu luado ri udligoc nel vopaf pamuhig ulcojkep. Realepom bu ohize roc vew ek aha cupurleg ci eburak azuho pijfiki dovin cec gojjal.",
+    "bio": "Ujeanu uwpectub kutoru ipazeb mel ki pe poc tib buda sifobpu peed domuniwuv cisapa. Fag ijebah demwa kijtiwi uri huwo cele mapfah bafuog caomebuh butkomdo urfa piocoale topar koddiber. Janogab celvedun vudibpac gorav avule om bolhes bowtalug rebo la es uhfa."
+  },
+  "apiKey": "6164ff3b93a5ad31e817f680a5ba43d195e41b62dd30c3e46752b5999088d4c0",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
