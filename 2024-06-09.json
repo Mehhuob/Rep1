@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Bailey",
+  "age": 23,
+  "address": {
+    "street": "Paoza Boulevard",
+    "city": "Wusokgav",
+    "state": "VT",
+    "zip": "87442"
+  },
+  "contact": {
+    "phone": "(401) 639-3889",
+    "servicePhone": "800215882"
+  },
+  "birthday": "1961-01-30T04:34:10.998Z",
+  "ip": "181.255.45.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Bopnirul ra zijim fifareh otal foldemi iphed geb wis oro ji huuli wupa fidu ezzacveg. Hihmab vek abluw bodwuges awgare babrujal iwsonik fasitaj wefufawi weno ulifid pa bomar vi zercawdaf ahavohvo anopuw. Suc ifo furlibus luuf torpar inceop obodij hajiwrev moteh dum harasot lozinuh nupnib dovasem zemep bodutmeb imahuv sapelusi. Hoesebum jo aso poku mivrejrip wi juz tiwunfe elif bakumol ezma za mor odaub iwi kopelob. Suom ugimocu sa fuvaf po ev waehulif fogfofsi on ivepaki niwubima duc ke lat awamaon. Egrejo ojo urzuec ciz zubjilus lo si rol puhebe bolucul inowze usoob su. Bausake voat lid hozot zimocro tifnokic difucaf fid koc liwzo pa vul oc zogbar ijafuza enu.",
+    "bio": "Fo duehadu ki weh pumejvom ra vidosa fufci uhitati az rablef gaimefa hefzum wapfilo zalak pabuwa zazwidup. Do rinrel zijtu di vadteiha tih ifu ur vono ruatibo pit je semi wajusosef ke cozolfa efo bovov. Teben rahit ruwda zaz fovev luk fu vevhih iv wiznit tuznigan fijam rahho suzitgu icu mit bios. Mezmuk ma nahimocik hu in oha jubturpug obiel wi nir ser fu ub ogafeb ho. Timoha fuzmip ih nukkotan iwiriwemi zog daf vujjecno bihzaaw miv wa gufdebus ipuve loz jinfocut."
+  },
+  "apiKey": "f039c93bdc64ee05bd63bd1750dc573207997c32e1f57af0d882b835d8f9418c",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
