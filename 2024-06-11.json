@@ -1,0 +1,26 @@
+{
+  "name": "Mark Rice",
+  "age": 60,
+  "address": {
+    "street": "Gaevo Turnpike",
+    "city": "Kordegsa",
+    "state": "IL",
+    "zip": "27029"
+  },
+  "contact": {
+    "phone": "(951) 918-2973",
+    "servicePhone": "800486434"
+  },
+  "birthday": "1975-03-07T10:46:46.812Z",
+  "ip": "35.52.63.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Iha edigukli tafgoodi okofug ri li giwwuiki lawfi suveow fiefuzow noilna okpag fev. Dugje ipenun uvade ja joag tahra wor te zunhe ihevom popa totbi ohi hikezu. Web linworob bieljun puz zavrof zum dizinij he werreced hudhec kousanum bovjiz. Farvuat ocgoswut vagfar rirgeok firip ab zuguvrow zahnic lukhum iwke bacuha ruzho olwe lazlob otfofri fam viv va. Cocevver voguodi tialsoj ri hokcoz ca hafij bozlofhol hakpumha ribag cohedvo fiwjif hepzop.",
+    "bio": "Pulooti esuato sezbezez zomjur citwo ku nutupi pirisam ge tewlabo nuljapwim vuh kebegen osoneh dowkadah sacomjuj kema bemgoj. Zozle zib zuwkidfok nekogak nuhsut haejazu tato gochizvo tirhiit buwpep goplicin zik. Rur gufciz ar lofaj vif mako pi uviv nobgi ino ci ahatobbut huov ru senef suklugfeg aspon nernuv."
+  },
+  "apiKey": "4aa055019b3d5d435c2758117dc0143dc58f40756563bebff82cf63a3abab95f",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
