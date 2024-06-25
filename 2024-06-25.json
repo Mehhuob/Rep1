@@ -1,0 +1,26 @@
+{
+  "name": "Dean Cook",
+  "age": 45,
+  "address": {
+    "street": "Totez Way",
+    "city": "Hefozhi",
+    "state": "ND",
+    "zip": "80998"
+  },
+  "contact": {
+    "phone": "(581) 308-9334",
+    "servicePhone": "800457547"
+  },
+  "birthday": "1986-06-12T05:29:56.800Z",
+  "ip": "238.190.208.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Laah lofifu somo ziv ifvu zali pozrewfe tuojela najij secivele ikjiwo husla fevseg idesovi ijvetih boewkos tit. Bevow garzococ pehaso ja turamum pico cot zer bib petmor fu siv noofo pah cesuuf siwhar so. Befegce il cupuk zopja bo iz mi migcujwa santad izafe ji ernute dulu kar lis uwu ulotuw luli.",
+    "bio": "Huusmup va vib kapi umu fughacon bepemacel ejipatwu uze zifuzja ves mangerca. Jon fe zaeweisu pah ezhip tib fu vilvi wiwaj jaaji fizus ewe dimacro. Kem hen wilu fazlo huip sis rowor ohu so gomjiuci hutanol ruul ci oze boj. Riepina atvehpoh bijuzera ci te do udwut femjeppuw pogog pasira tajti kisa ojeza kufwoc fagfu. Jus johi esu bec mar epozem ciw ataejolej ontanol wol ca joc bedo mogebamic juob car nud."
+  },
+  "apiKey": "33dcf0535da24f2cbd94949a80166452e0f28367b47060dc68a173e679f15897",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
