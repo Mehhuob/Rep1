@@ -1,0 +1,26 @@
+{
+  "name": "Georgia Burgess",
+  "age": 46,
+  "address": {
+    "street": "Paffob Highway",
+    "city": "Urisagok",
+    "state": "IN",
+    "zip": "34000"
+  },
+  "contact": {
+    "phone": "(512) 445-2057",
+    "servicePhone": "800738827"
+  },
+  "birthday": "1966-08-03T10:07:25.472Z",
+  "ip": "254.200.148.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Il le na ow wadziteb be mugatpu ja nacowi damuseli fek kin tur ikda ekwamew kevalova uskeva epohumma. Dornil juot kujosi paclamsen ipuewawu seribof puele lem difoscus co mendali pav jih lagi gu. It suatmem tat wug wa nofe je bunin dupnek kicgahge upeekawi wecicmes ifigivwat taci.",
+    "bio": "Oha tal kow besinob babwunu iji mofbuzka eboekowiz ca ilolarad ko horar gehosa tudgiori ojcudu vo. Uhuven dojhumo popef gepag safa oj dip wod malgoblaw sipufmu evo sedacuro okupsa. Memadeegi hedis covigsoj lemoka vaciosu rokunwuw wira ilubi hud awfu ka anodi og lurjap lel vume mef."
+  },
+  "apiKey": "10d10800b79a0c2b6649da3af286a01dd8bfd07e88b8cebae70f9ef1ea1dfa07",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
