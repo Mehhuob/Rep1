@@ -1,0 +1,26 @@
+{
+  "name": "Vera McCoy",
+  "age": 54,
+  "address": {
+    "street": "Puzwe Plaza",
+    "city": "Ravoepa",
+    "state": "MT",
+    "zip": "07374"
+  },
+  "contact": {
+    "phone": "(917) 911-1151",
+    "servicePhone": "800479516"
+  },
+  "birthday": "1983-06-19T12:04:53.403Z",
+  "ip": "252.255.215.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Uci kihib notcurwe anadusi pel dame esdupofa ti gu lozeku hozi fu. Lor tusikal ul gomzi ek malro te poc sudnuh jen ucomeig deku zev. Vohok te gahmon ukmab hocwum lu sihotbes lifsew ro ze buca fosfugju jiru doefa bi vihov. Vobuvibi dic meh cuj kamut uvalicu zujsipam gurud nobilde fe iftoso viwci.",
+    "bio": "Ret lulmu leziw epobesho hahupole enoruveh ukefef ac zugrawma wuzhe uhbo ruf uwfo te takohker ze weaj op. Gu rak muhuv juuwucu jasrog vi lavepuv uceven bukkefi jutuczin tabnaaha hazukho. Uk mumimcev ekadeiwu ekehawre fot ziuda cahfeknu egmioda ivuc hosoami rab keepo korpivo."
+  },
+  "apiKey": "71500f1f9eb810920fece571a6fe9226411fb7905f541dacb53fafc46fcfc09d",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
