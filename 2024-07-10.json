@@ -1,0 +1,26 @@
+{
+  "name": "Ethel Cook",
+  "age": 38,
+  "address": {
+    "street": "Fuge Road",
+    "city": "Louvfo",
+    "state": "CA",
+    "zip": "73541"
+  },
+  "contact": {
+    "phone": "(783) 928-9411",
+    "servicePhone": "800228419"
+  },
+  "birthday": "2000-12-21T07:01:14.179Z",
+  "ip": "211.68.20.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Kan ho sa wopajom vo it nuhisse kekob ho ho titcom kunrih ku agutu mi obgezor muz wa. Laza nifze pa vegutriz sakzu merleri fi zatec ag to nem jubakuj. Eczohgun mat wukkikne inegozal pibcoja me ov fohok po suzfihnan muhgudel jagev gi tenikfu.",
+    "bio": "Ce pokigi okpab jubeeji ziku iciul majfo wosfev lim de fo do pocpumor. Ic jazow ozuni nuzvu saowi na sarawiwum wajjopbab wa to pa rar ti fiocde. Zivete irar li be gip has edi em tor huj udgibeho ege jufletik sicej cogoz ca so."
+  },
+  "apiKey": "3dc77034f9003727567fd0fb35ca0e0296d2066f6b192664a68d0cd63610a465",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
