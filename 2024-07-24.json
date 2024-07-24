@@ -1,0 +1,26 @@
+{
+  "name": "Susie Williams",
+  "age": 56,
+  "address": {
+    "street": "Zatwe Place",
+    "city": "Ujdupac",
+    "state": "OH",
+    "zip": "39842"
+  },
+  "contact": {
+    "phone": "(819) 754-4498",
+    "servicePhone": "800698558"
+  },
+  "birthday": "2005-07-01T01:30:42.772Z",
+  "ip": "189.86.153.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Bit mof mijhuow wanovwe lavag ak faevse semji okarip owielojul fi ro ojowe dalatbuc pupaj gim fadledar zemluz. Wudakufu ike ufesukis juk zobcuka bauhvo iraos gufku pehawdal ilzin ectubeve saruni dod. Ibti obazi tev leltafli zu lu podi ejiuk voipvad liczid led vap.",
+    "bio": "Feriuhe jebsifbun ozet sikbepik ewagab wup ojrulop wusdopta ikcat tet lojopfi sefas epusut ta sovze recu wizajam. Zebizil vewveb wobluse notos hobuleviw cabu ruj gamivne zizip za secfuan ho lujpawme imsego. Pu sa ohoti ijsokas witukedil woigovuz jovsim bovpen nodsirfa oso pec rukjetog. Nugdine hulom zufag efa ermale ifiugpuk zeopaud fizmusri wu kipvih pihsodo toad miser zeis gooza eso."
+  },
+  "apiKey": "45516d1d180f877d4c410e067c6d072abe8f59bb74f26f8fcc1ab32d548e5a61",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
