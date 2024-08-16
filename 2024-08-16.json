@@ -1,0 +1,26 @@
+{
+  "name": "Eugenia Mendez",
+  "age": 63,
+  "address": {
+    "street": "Irami Extension",
+    "city": "Icitlo",
+    "state": "ID",
+    "zip": "10703"
+  },
+  "contact": {
+    "phone": "(948) 924-1332",
+    "servicePhone": "800985544"
+  },
+  "birthday": "1998-07-31T01:34:22.540Z",
+  "ip": "48.43.61.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Celi se mauka vi ahhiela hupijo wem ficcees sehfedo aba ani vurehuj. Mut ume tow mog civ koporce tub cajob wi obpu nedtav caga. Heksage oggalgi benalfof coktel fe hu zosner durev ekeke tuve misa tak of.",
+    "bio": "Cutbun kacur vuzuvuca go vidfokni oma ta doozna buzzo uskupiz jeboci giro ar hiho issoc ucetuh dafetjok vihisi. Afu to boruv ramamhu ro navowo ralko piguzfic ori igjo zaj ruluvu ecanih dista. Ejuaf do tobvaine wa lip cevfad ufe amahulhu wato sa volhigni mar zor sani beolti."
+  },
+  "apiKey": "016fda19485c4376824f21e80cf95acd3e7411629fbf4171b84b1eb8bc3d1cf7",
+  "currency": {
+    "code": "SRD",
+    "name": "Suriname Dollar"
+  }
+}
