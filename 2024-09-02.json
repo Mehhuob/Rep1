@@ -1,0 +1,26 @@
+{
+  "name": "Clara Howard",
+  "age": 34,
+  "address": {
+    "street": "Bilcen Junction",
+    "city": "Mablutse",
+    "state": "TN",
+    "zip": "54499"
+  },
+  "contact": {
+    "phone": "(887) 661-1635",
+    "servicePhone": "800737981"
+  },
+  "birthday": "2002-11-25T01:41:16.950Z",
+  "ip": "218.150.109.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozutumli lilimon fekuw corpad gumurgu jevru vopbucav wedan panatro tarmiji gu otietajog. Efjasel olewoz sad pamlul beoja sebkelo ki be zosniw uzzen kekji umlik pazu wicuklu jitrewab itijfo. Fipzithe poj jiw cuvu vusig el nukibu ekipetos piuf zekew havpur fit anunolhir. Newrapi ac doroloc var datotaw be uv enapuh sasegpid vuwhiv va ecizonoh moceg.",
+    "bio": "Ha ob adu esekulor enobengil co sed merezle ebbeza ramal mif wuijo fa bugdaina. Tu wefisi kun butokri jon ine nar ewu nulve izem waclutle jinemzi eniupakaj udu oco. Nape biprafhor goh sifa cevuwroh ackubaci davesiki vuvonto ge hu naggupah cudkouca goot."
+  },
+  "apiKey": "247ec91789f06ca3c300bc68f62959c1fc34bb1fe6e28fd9dbb6c68f7b8f9ebd",
+  "currency": {
+    "code": "DZD",
+    "name": "Algeria Dinar"
+  }
+}
