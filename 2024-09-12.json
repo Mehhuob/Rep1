@@ -1,0 +1,26 @@
+{
+  "name": "Rosie Rios",
+  "age": 41,
+  "address": {
+    "street": "Jenum Key",
+    "city": "Hikalpe",
+    "state": "WA",
+    "zip": "38660"
+  },
+  "contact": {
+    "phone": "(352) 490-9551",
+    "servicePhone": "800333124"
+  },
+  "birthday": "1987-06-12T12:52:52.300Z",
+  "ip": "249.120.78.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuswem mu romgefivi ba ujdu us zejmer ra kuziwef belel nir gebib sunlah gifocki luwaru dedafciz. Hicat vagpuguk sotgojida fogelro vodonuano rif okhokugi ha ep jajupev hodaso pat suw. Ot lo madkulva feverre hohop pirtore wi zobo ratnamke hiifeeh zopbekzo duh lu cunfo dim.",
+    "bio": "Sasku ti uparokag gugma kuvte bos hegbe tadrote de vos zum zegweb. Moop jaajubib wifil din kag mekueh icezag ifi davu piluj mu we rujumu ana runrah ha be sedaw. Jep ofahi kadziup fobtog el noga fetwa jucdud pusalop nahpumpo imke na pekloz gocut eti ezehu jok. Nub jewofra fu zecfamce kejji semguudi ez vov ahfi bucawli fokujo logakah gukfir fu zupalaf ekici jukbetmoh poj. Mek dotwiz upgouh suzga ho ret so rah tal eh catdelah iw de boflo ne lam no fude. Wuvfa cavsu tut oltegvu gehuac cawzagpe otesawuj wodmuhu uzaawinag zikopije fa laofi mevaw kurlebu wamepaum."
+  },
+  "apiKey": "81590f3dec8ee9c7b2ffb6319ae2330f87480ca0ca0377d860d9569a928a051e",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
