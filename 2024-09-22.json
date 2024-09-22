@@ -1,0 +1,26 @@
+{
+  "name": "Dustin Hudson",
+  "age": 46,
+  "address": {
+    "street": "Decas Road",
+    "city": "Pojalfiz",
+    "state": "NH",
+    "zip": "11012"
+  },
+  "contact": {
+    "phone": "(373) 622-4742",
+    "servicePhone": "800413339"
+  },
+  "birthday": "1959-02-04T08:15:02.129Z",
+  "ip": "197.106.127.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Fiklof dadovo balbiiz kukkigdiw vol vek usoaziit biwecmal ilgane pegog lievita aje guthah be. Amedosaz wuwdannah tufjut gazo un val vugrup nodul je vi tosbigve ercutin zeme jushu toasotad. Lonefev us ewmug su aw toiwi talufota papcan bosvodub folwar ge ek mutal ibaso capetgoc owi uk. Na navjok omedasred zuma paizibus rizocpo rejus sem baavowof wiw fo duefohin cojuciba zobuuce usefesic pawu. Zinki la uhrujid atafaef bomofano jokubgor goji lipuji zapaw zo fi wezoclu. Fo mo rabisufed hohu pez odohizat va raz tanab co baho mor filweeg okifugceg ramevu. Noneput mo annec zusoro wipes vo wi hop hur wufun jiboluc vimi toce dokiz.",
+    "bio": "Nik zuebu pelmab filfin gebede eci tahlo netufpok pac wumobu dica fudijho hovim fehe wotogah zijo. Fivu wekanso rapzauke cedi dugil ca muzegep dev aku ti wo bevkig vicra. Ufhempeg uhhaklow tabazni oho fef nelcuk powzamtil jarob gipe wo komawil tanezfi ho wib sorfizi nig duljano."
+  },
+  "apiKey": "02d09cc82889fcf5312bed1f07bab42b8467fdd6eb27b22774db6298a036fab8",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
