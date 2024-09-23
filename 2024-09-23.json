@@ -1,0 +1,26 @@
+{
+  "name": "Julia Ruiz",
+  "age": 60,
+  "address": {
+    "street": "Kaluj Pike",
+    "city": "Zihebep",
+    "state": "NH",
+    "zip": "72033"
+  },
+  "contact": {
+    "phone": "(667) 432-6634",
+    "servicePhone": "800286145"
+  },
+  "birthday": "2003-07-15T11:44:12.005Z",
+  "ip": "117.211.16.253",
+  "foo": "bar",
+  "profile": {
+    "about": "Lulzo fi sojjase weiko zasipke kaver wowit pesdic ni hulog pucropaw urip valirop ki. Jut gofwove ricattah robwe riduwpeh zos cosol ibzauju lan ta ibojewe zosobve. Navtesa wa lisi va fimzekoc ev lodci zeguvew higgogmo asoow bufwitel wogok pilluvev.",
+    "bio": "Riri ker setes ejoofeuju ve bawcelgiw giehpo lepnabuc baek nivfa adbib mafakfo. Su set unrihoj vowwabemo fohe noh ridu itufu opfocis mepehza pabpuc gok haptunu jatuhe ijekosit sa eziuv bijazjig. Ko hi wegsi bo apaefpe cikcozew ipbiseg sup buzefni dor pogle cahi lehum ke uzjoljad. Luncuzge zokruvovu wikubo teto naweki givo tewo osipu acvow to uvhevo libma apunaoz gatouc inewi. Linhu le nilediwel iligim pehkuvcu hopcecla fam kabnen tiwhad ale ruhi ketuswej ubkecah idika cu. Doh zot cow omi heb zavrenvid hej logcof ede amcecus lambekiv zafwebta womub bak utivi bawus wizari cab."
+  },
+  "apiKey": "6dcebbeff9650d191015e2fd0b22d03896d16f3bcb391ab2eab515292a6354a9",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
