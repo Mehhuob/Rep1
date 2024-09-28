@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Dean",
+  "age": 18,
+  "address": {
+    "street": "Roev Loop",
+    "city": "Cawuwuha",
+    "state": "OK",
+    "zip": "41806"
+  },
+  "contact": {
+    "phone": "(976) 954-9331",
+    "servicePhone": "800131538"
+  },
+  "birthday": "2001-03-24T07:16:25.757Z",
+  "ip": "122.82.113.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Iz hourko woksiwib bepeci cav osi tob akueznub vafiw uwa liwegzi epe zim heuva foz jommaj. We kidajwa wabsa ezbe lijfop daemaucu dam pericis puhwob umuvevwaw vu cib fuwlenro sinavi ji tepif idu pumaztef. Emuila tehgehu ileap folefze amliwam rec luk himoohu sethalgit burip palumo apeme oti. Zag do povsoj rebesu hailihon hazga ec ped in zor hohgozo vudhanta abjebo jujeb.",
+    "bio": "Uzludoc ojasuwkuv peguson mes upozawonu kuh mivo cuwi he cujo vemjen uro tumav sirsa zud tuhwuj. Bubba za ciuwih hewlier mimuli zaoviri hahmuoro ibe za rotus munatlod mod tetlibjok tisraaz cekhovca ba ic vu. Ef delu mud dipza ira neczehne himtakge gi atu wefvemvud hoimibu hu sorgam nob. Otgo tewni uzmug dokleg jesif memwus er gunomdav ufuamu uce ja horcaek onu poado cikbu. Ju galercug ovazeuf ler jiva aswo lid vu emipu ifuzino tenifo wub budamliw safulak egiiwe vetane zapatu to."
+  },
+  "apiKey": "8268f5e3ea11b5677deb768cf4e272981fef84becc4bab3c9167dbc0ca864c5b",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
