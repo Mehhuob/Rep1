@@ -1,0 +1,26 @@
+{
+  "name": "Tom Henderson",
+  "age": 53,
+  "address": {
+    "street": "Dasu Grove",
+    "city": "Asresho",
+    "state": "OK",
+    "zip": "40576"
+  },
+  "contact": {
+    "phone": "(318) 979-3819",
+    "servicePhone": "800198116"
+  },
+  "birthday": "1960-03-07T02:52:06.944Z",
+  "ip": "107.67.211.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Hoborgot humu mi virogcet banhe facu jeejnu cugi akehuf fus munev gopu wozoze tej sek waf revosu. Baficuse mu abneoc uca om bonjodgid zuhiweob zawaz ji ti sidripin ogadivhat ma odeiga. Iwu wirkorfem ego hicsodbe ejfod aj hidulezub vadbaok becja lido re mikkenve meaniv nabpafan pa.",
+    "bio": "Afnadu zisrec hef eluda ura mebezha ivteb ta wihorci ram ro unu bu jecmor kip der. Kib re fajna pam vofo jeh komibva fuctadas hu kaba cigloj atom ecoki ho efohonvil didow zu pafa. Ok baiz to evciwfov be de nih vep gosha eteaholek laswe cuc esihi deljulanu demurbom pe radeen. Ivduw ulodi tohe uvzoah lefah men ni neg ud ut mutfumtab im eg najow new sejguze nikiddun."
+  },
+  "apiKey": "b1a60c18ff73123011be56806ea8459f35d039758c41e539e307a0b84077c800",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
