@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Moran",
+  "age": 26,
+  "address": {
+    "street": "Avej Trail",
+    "city": "Siwirlom",
+    "state": "MS",
+    "zip": "31858"
+  },
+  "contact": {
+    "phone": "(341) 912-7830",
+    "servicePhone": "800868255"
+  },
+  "birthday": "1963-04-22T11:52:35.036Z",
+  "ip": "225.118.139.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Kewu dukoep piniludu lefes ricvo suoli meera mupod inucuama vi etfila fa mib foebcav ne wugko ci. Fat kutuval zun ducdej vezi vun ritu dusbecgo bo vapir ded tawepan dap kafjemov. Nucognuv bi vedzu ovipa agrid faiwme etsamhi jeojaw lob lilvuif guw nerfop os wapucup.",
+    "bio": "Kitakah entud ba ibufecu dibewhuc virov bog gawcu opegu bag bergewed moctosken refuga. Ratofeb one atiteok cafeb fouboomi gok hevguj nuliwsap acizemsus wom uza kuhwi agumenbu gobin ehvopa kehruno wofato penum. Goirda uccuv minducu rujiw mu poihpi buhdec pa ka vovmohi mukvenlum kucevo dujid neki ikaatomat rim sedosfo. Kaoro uktudles puzohsof he jepwar bifapoule jat dantoka buner tombulef huzel lupnason wuise wahfois."
+  },
+  "apiKey": "0111951f5ad86a5216d3eb27645c45903df88eb407bc46229c7dbff7a48f0a46",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
