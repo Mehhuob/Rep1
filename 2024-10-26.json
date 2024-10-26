@@ -1,0 +1,26 @@
+{
+  "name": "Marc Burgess",
+  "age": 38,
+  "address": {
+    "street": "Kano River",
+    "city": "Siuscah",
+    "state": "WV",
+    "zip": "84038"
+  },
+  "contact": {
+    "phone": "(485) 591-1716",
+    "servicePhone": "800496548"
+  },
+  "birthday": "1992-06-01T11:31:47.088Z",
+  "ip": "42.188.51.166",
+  "foo": "bar",
+  "profile": {
+    "about": "Baekeile falwaab piawe fiwac zig vi looc kewa laag sezivger ukiud bavehib vin dekse hudizo tifza. Vooreow ranu daj dikun haw pek jallucke itzalvo ruikfaz judi nawosaku if ret awala. Uj gecsib sizeza egfewje ze ubucorfet zepovuh ocasif se fol jized topi iwniup gafseki rohbu.",
+    "bio": "Juam fah fez ubjaw apruz ocis vamu fuut ce rezgo arha buva sinu. Catoj tuk vis tugolhur liij kim sebfi gabred lesda ecupiwdo vajog rehfujug nurlafugi reof done. Ece cisujeb en jecbetu mefhuhsu jenam awirocvu haikuce kec supdefih tazed ivte onho woteles bube wav. Makhomaj vikbeh vu cop etikiv cofaba hesewu ebi tueg eb ke baw ze gacnohin bechod acubefu nohjeijo co."
+  },
+  "apiKey": "008a7921d25cd9ddfef176f67f7590df48b8784c074cac798a748f30fa6b243d",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
