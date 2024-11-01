@@ -1,0 +1,26 @@
+{
+  "name": "Alexander Jackson",
+  "age": 42,
+  "address": {
+    "street": "Jien Extension",
+    "city": "Difpaco",
+    "state": "MN",
+    "zip": "72457"
+  },
+  "contact": {
+    "phone": "(554) 889-3826",
+    "servicePhone": "800896644"
+  },
+  "birthday": "1997-06-15T03:38:02.680Z",
+  "ip": "217.85.241.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Bimeza fikdew jiuvu uctez sap gikifo jatnesib levgi me zil unidap ubkagawe ina nacceboga ohewiuzu gehu hukbojze jarvuj. Ha himki baniz ererutuj ne muvripo pazrij afooredul lov wolid fim rot li hevathon jin sapop. Ji jih gufuziju tubmu fon anomun fekgafup icsa kuv tojfu huw lepimle. Fib lemdinek aline avapigkij fien mit ukujidag nijhap zugaca ife hin betarudo.",
+    "bio": "Sog rojetlap citde puv dekaze sivsaeji sohuduwa rufhave ziccafev luso go ki vopcujvib. Wedfen idu duvoin wojvef nomi cupen nanaza zirzapika itacejsa befani lurawroj amekapsin cemhenat ubetacen zacve owuucob fouj. Kasvaw kurrir cujipupi vef tuk hereku begleb janistir lotco ahupugib sof ageec jobifeh. Ecveto hikaaw ehu puluf cak ba zownu ij vagoihi zofin tiez to. Hetmo liiwe la ebi sezra now detobgiw nu dukliwas agniji jippepi zilkop kunouw luvim su."
+  },
+  "apiKey": "59d78c9ccd93f51e4bafe0aa1497a0c8459159bc1ca1b5ca855a539f11bfa0c1",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
