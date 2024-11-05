@@ -1,0 +1,26 @@
+{
+  "name": "Blake Keller",
+  "age": 40,
+  "address": {
+    "street": "Mocis Road",
+    "city": "Zesmiztic",
+    "state": "MO",
+    "zip": "50735"
+  },
+  "contact": {
+    "phone": "(566) 487-2237",
+    "servicePhone": "800375572"
+  },
+  "birthday": "1994-12-04T09:44:18.262Z",
+  "ip": "197.23.137.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Ja ja dikahwod bewicku elelow nera hajle tufauwa hag evodoiva fic tanjecaz senucfin kurubet. Rup wuzfouc kimcemna leggopim necama cevhoifi golluvfa vikritmin cikutem fijotka oci ero. Ugemaden vi ril we na samah fajliaj dene le cov hivribik por hega zatupel pi valceah faje. Joneznil hupi wukav ribev nufle joavituj ura lomi jid wewobi dangajeg pakukjin ackeile ruzhas nopow.",
+    "bio": "Tow jis ub eldi pek jun sotu ajo umbi demu zarim wonzowama di digemetob jo ripu nu ojaanoje. Macci kezrewil he wo iwrabo saise kuvalso nedoj takifmez vej hema kom eda onhag iffe tusiha nuwej femrista. Ranogu egenaew uppifoj vamuj oj no jej do azi penhaav oniutoiv pasihzet nus."
+  },
+  "apiKey": "1c37e8a3af79997040ce828b41d37ffa7831a3b350c5160f2afe1271cd37fa63",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
