@@ -1,0 +1,26 @@
+{
+  "name": "Francis Robertson",
+  "age": 27,
+  "address": {
+    "street": "Duguwi Place",
+    "city": "Cozitwi",
+    "state": "ND",
+    "zip": "18170"
+  },
+  "contact": {
+    "phone": "(305) 800-7645",
+    "servicePhone": "800865269"
+  },
+  "birthday": "1990-04-25T07:53:41.106Z",
+  "ip": "188.64.176.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Bajitu uweromez juzis muvfanjo ih ret rervekcan ku ifadehap lukgasa beov ev ebefisol atroh bonhipet micri govuk. Teata fidet ak polvuz sel heok jiwjoma tujum gofef bemorva gapucil ohaidu tov lamwo gar ed elede. Ve kona sugwo vo gaasu evaumze tuuku ocuvafroc ki rikme omamu rur tig raru huva gij. Gefdu mudser kutuwuje ralar se pozla jomugbi vehrup te zo osaneb berop kov. Wota ku tepcibcon tum zifmer banuzukum verelohi zufawuvo nevjur kamevada luj likur.",
+    "bio": "Betifon eki lofribuf ukwec lasjef so biona sepo feow gir porfir hamo sof veb uvo moj. Zoriuza ma hut ke no utohan rul avzu jujasza ecitus tib zulzi uko od pe osiwawiv. Pisbir vowto epiwajfi ruwukpuw lu odlacu fo mamro nilcofjop muw finbesnak amofawin. Zorovzi rawpa be loh ra moc vev tupbumol gup ze abojonfu hahtaw kok hamanmo rifwub bohovded. Tuficuzu goipu lewom uguse cegumose uh le furomub guhse paituwe niuka mobcut sojaj."
+  },
+  "apiKey": "6be915a356c4eb6b4b0b39991b05fc2e43e1caaab7c153b266f67f306e971a2b",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
