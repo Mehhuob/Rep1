@@ -1,0 +1,26 @@
+{
+  "name": "Rachel McKinney",
+  "age": 34,
+  "address": {
+    "street": "Kokik Street",
+    "city": "Puhratrik",
+    "state": "NE",
+    "zip": "54971"
+  },
+  "contact": {
+    "phone": "(453) 935-3335",
+    "servicePhone": "800211562"
+  },
+  "birthday": "1995-06-25T09:07:23.515Z",
+  "ip": "118.48.14.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Sesiej ed ki kansehez huvi ehkura ulmojuz eh menivaj hodti imeuf elijok banedu su loj cuzriz. Vub zileri runoriro kuli jisig mitli vedzoeb tutcug guzluti se vara hal lipmigmas kep suk non. Nuwuwi kid naji fava amahovzot jivzej inecmin resorbup fan ta ke oki ruap gumi anoos. Gik piw ag ju fubmim ahbap la mibbicu ati bihhasci de virufor. Ke ceuco et of kuptawwi funawur cus ojevugip umouhaotu le calso vupzehe zuzopbu hanadit tew. Kuz bobigban zu ino woz figadepeg ka limico tepol cisakod liron are urwemro sobnibul odtuj zaohruf agafemne.",
+    "bio": "Jahugi hiramze rejkuoj vul jultotkaf cojcaez gebre dugon vopzior bu ifu ko mostehu dewdivi. Ahuged lahojdo nage oc jah ur leshis vapu vowibor afaci nojem ocaor kesej fitezda ijatapne kozed. Lidevop faflita sisiro pufvari wati uzoetkor ceoki venewut liccocsi su onoon eganubejo faz acoimet il tihkef."
+  },
+  "apiKey": "92125d4511a174c623dd26994e486d18db14e883490b8b8d37b71a8203401df6",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
