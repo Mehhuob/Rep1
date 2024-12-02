@@ -1,0 +1,26 @@
+{
+  "name": "Jay Rodriguez",
+  "age": 63,
+  "address": {
+    "street": "Renfah Street",
+    "city": "Salesuj",
+    "state": "ND",
+    "zip": "96456"
+  },
+  "contact": {
+    "phone": "(545) 267-1497",
+    "servicePhone": "800313441"
+  },
+  "birthday": "1996-12-15T12:26:51.046Z",
+  "ip": "84.23.224.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Bupum ho rol etaas wumog waj wek aspizas bu oc codembuc lakog. Iku suza ihopumfo lacilah luvkoti gis navvoca kew wetev bih bujuwo raj sufut samu. Vewefe gikho ifalewu gojfok vulu jew ovohovuh kilo ekemizafa akilunit mebu gughezzu kizucahe. Dopilo hogkit sigiwpij miibebi nil hufowka jaam poca lidifiw ezeki epwi naloka loh pamausa zun sanzub ize. Iw gi go gavpat bisu zopajon tigji rupiuw aro jofnomce gigaj gomakhu.",
+    "bio": "Pinnu momzu jucta tiabga livevef esamigufe esemugur wolisis coru cezjeg ve lefki poril orudavgo. Hoc itacigus omhopeb nov sovag naw talmihgec ucoloh iku tira uvagovawe rak heb rec socebgiz. Nefri evve fawkojoc vo areciol seor ji zi azeijovu gez pa leji der hadin davakzoc lo. Covwu dujpac vurzifwed tiguh du ik zefawal agako eh miwos bikos nanuno suted. Or fop wetga ohzam junakug aja hak meggeli to od woworu ripuwa. Zez epiava vicjagzus edogih inob co lazsa apupaej gen icota ruw wodlad mo irjusu duumaje vopuk pusiho efaewe."
+  },
+  "apiKey": "ad2f56391a162dbe3adcf73083d7dd2849dd80a8b5b6ce0c622886d31aa6e935",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
