@@ -1,0 +1,26 @@
+{
+  "name": "Hulda Quinn",
+  "age": 57,
+  "address": {
+    "street": "Rijga View",
+    "city": "Wahetlej",
+    "state": "UT",
+    "zip": "24683"
+  },
+  "contact": {
+    "phone": "(729) 726-9277",
+    "servicePhone": "800652483"
+  },
+  "birthday": "1966-11-16T02:29:49.418Z",
+  "ip": "158.230.228.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Rum kigedun senen uwhov iveejse moh mopniw to wugow di liole or kubza jiulelo. Tek ew lidbu az il hedjav ibnuvmo me zaf ufupku zeapoge nebtuogi. Dud vakipcem rudbehcic zobjevi zeum dogog ikkim vev siji ladumwed nosa sohreg pubik ud kihbi dohhuc halfikmoj he.",
+    "bio": "Zuznudin tewuz to eweato cesfad rouz ga uw odoto cem vevcu tuloc fusagij nif. Fivhupre jo ve weswof ehosaij vewidpuh bonwu rerkud mud fe apu bev pouwoef. Cu dosar ilzuut cicnaz oko gah uriwita tikopif talo apa hura bajo galuje hajsazku sodujre unkurwer ge."
+  },
+  "apiKey": "8b3749318b56dce6e6004d9e6703e61c42da2abcde6f01a41d343416fc7c3736",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
