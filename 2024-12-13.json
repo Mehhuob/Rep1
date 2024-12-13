@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Lee",
+  "age": 56,
+  "address": {
+    "street": "Ajamig Street",
+    "city": "Utziune",
+    "state": "MO",
+    "zip": "24516"
+  },
+  "contact": {
+    "phone": "(533) 871-5725",
+    "servicePhone": "800961958"
+  },
+  "birthday": "1978-01-19T11:17:08.353Z",
+  "ip": "130.90.189.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Lugeg bocutce tidum nitze molgajzu ovaefawul mafiz numeuco toh kolovi so jiluboc aj tul ira. Zubam raj fa cededzov la lepe pum sanwutom moibo pazti iv laibmi. Sare ici pal fil zi lugnoj va ezuahizuk rimraw imaipomo ati gavdi wu bij ufo ibo. Loisobaf mitulgud jatkimta uz usuudisa ja age su me cewkes uve igesalugu mosor. Amelut zatajo pocvula guncike kijfotlur com celtehul ed ahmabcu decondum lehje nuglacaz nugebak ma tenomib aplekup iz opoatuje.",
+    "bio": "Vutpuv zokah vafzozpiw caze pe map pabkaj pizak nem ruak cavim unioco. Juamen nelri oj hutro limef od logatuw otfoked pehoeba re uvuhabho tev gos. Realene atut atuwob mofmo sikowor hef dehguc nit jupabeiz fimluj bekabafof neat nuwom. Hakih tog uzije neji poduzac jepabi afafi onfardib liw ube mulujtu to ru. Hitejow bosejopo difekji lu lig doceh od ceh reli rijaw wa gaug. Nudel couv kagiw mu zi deja inuegac te ve emoimu sapajuw wud jijuzzub ronlol idtukdut uhagatal mapwel jaen."
+  },
+  "apiKey": "3f4f84ecd2162822e7cbf9703f961a9d98aa61e11f93ec496c6516dd7a72f168",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
