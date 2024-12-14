@@ -1,0 +1,26 @@
+{
+  "name": "Steven Kelley",
+  "age": 50,
+  "address": {
+    "street": "Igwa View",
+    "city": "Ponwuloga",
+    "state": "KS",
+    "zip": "92730"
+  },
+  "contact": {
+    "phone": "(286) 969-7967",
+    "servicePhone": "800315535"
+  },
+  "birthday": "1990-09-13T12:46:30.923Z",
+  "ip": "50.248.189.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Abli huzini joapi ijewama mujnouf nagcu moofuje sib fetbo to wiumuer dovzaf tuche dikgo. Uhe boj juzbugfis da pesbubas digon du lapedtuj kulpo wiwi oc dun bovusfoz kalih suhon robudi po. Sidez huwka ome lawa ropucol fozuke abi zenike sep ebohadi toppolud tefaghi col.",
+    "bio": "Ses baszu ocivocej jo bihkozik bevioki hunagdu jesufdu tivgodze risoze aleturur ibu zojbi. Be dekuj vizgicda mihodok jeleg nil jad zu ve tetcevle nec hoce zeeljo aga itwopige. Dig bevuk ge rerozde soscufjo nesenire ahiuzuipu uj fowus jikrata id fotpeg fierpi gestanko ujub rezugza maje fa. Ca ifbaofo ru iztac ek co eda nof boom kajmovu ezkogsuz ucusu."
+  },
+  "apiKey": "b37c9b6f458fa0fbc58979e876eecaa293c65292766456955eea182a5d431fe0",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
