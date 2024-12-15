@@ -1,0 +1,26 @@
+{
+  "name": "Francis Pierce",
+  "age": 30,
+  "address": {
+    "street": "Kois Mill",
+    "city": "Cehzinut",
+    "state": "ND",
+    "zip": "72950"
+  },
+  "contact": {
+    "phone": "(515) 232-3298",
+    "servicePhone": "800887738"
+  },
+  "birthday": "1964-10-04T10:17:35.361Z",
+  "ip": "241.130.161.251",
+  "foo": "bar",
+  "profile": {
+    "about": "Efe naz fedti er ig mucza limuz apadig todzeca kih nob wesido ev egijum. Leb ehi ahinoibi bir ga riok gek nar voh pugacuw jojeapa gadja cihu. Vutwi tezvah wukke ahe affoj vuhsebzo cu hi for etwe banhuif idakannef.",
+    "bio": "Eksamuj oji fo epnak putfoswed mifa acanandon uke gowdoeb vur mazze vunnidune mupip oluifumi kur hu. Bezwulvo jojwozza rulec jibog po ofobubhe kas hol utnijic tasbe huc enusiw comupu de moz duwuozi iz kehice. Hoozi ibevu rapfo narokmi ke bam ditwi fu leogiewe suwminid ejsum sunlemram red finvubhud tocag sol bomuj himesheb. Muswergub cirsi sa covpisgov fehe jis lekonour sizniw he apjav ri uw bo akpeb jow pi nenpo."
+  },
+  "apiKey": "66b9362954b7470e36e6bc3900d4c3d5bbeb2f8ce029e0360bcf233618b153f0",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
