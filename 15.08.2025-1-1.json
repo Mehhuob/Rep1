@@ -1,0 +1,25 @@
+{
+    "name": "Justin Holland",
+    "age": 40,
+    "address": {
+        "street": "Ramirez Flats",
+        "city": "North Amy",
+        "state": "Illinois",
+        "zip": "12732"
+    },
+    "contact": {
+        "phone": "395-978-8303x7649",
+        "servicePhone": "800806381"
+    },
+    "birthday": "1985-01-05",
+    "ip": "163.213.84.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution reason class lead. Follow consumer natural alone or. Exactly final knowledge.\nTrip bill whole cause professional Republican. Their wall design the fill share.",
+        "bio": "Realize although improve employee pattern woman. Join it sing trouble free."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
