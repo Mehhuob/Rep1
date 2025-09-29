@@ -1,0 +1,25 @@
+{
+    "name": "David Paul",
+    "age": 21,
+    "address": {
+        "street": "Ryan Ridge",
+        "city": "Johnfurt",
+        "state": "North Carolina",
+        "zip": "34793"
+    },
+    "contact": {
+        "phone": "660-855-8029x37703",
+        "servicePhone": "800650173"
+    },
+    "birthday": "2004-02-11",
+    "ip": "205.194.147.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye list really customer. Character well note east customer.\nMan artist report want leader. Phone price discuss garden Democrat here.",
+        "bio": "Investment state bar number five these level. Bit these seven. Community face drug far first especially fish."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
