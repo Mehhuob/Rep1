@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Martin",
+    "age": 63,
+    "address": {
+        "street": "Robin Shores",
+        "city": "New Madisontown",
+        "state": "Mississippi",
+        "zip": "91117"
+    },
+    "contact": {
+        "phone": "258-938-6242",
+        "servicePhone": "800757335"
+    },
+    "birthday": "1962-07-04",
+    "ip": "83.67.211.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Else represent yet participant. Reduce place piece state business. Chance lose trouble I.\nFinancial seek land half war through detail. Study much speak.",
+        "bio": "Your determine term unit try. First kind central himself explain couple.\nStore sure early note face kitchen. Great car chair soldier southern."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

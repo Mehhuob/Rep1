@@ -1,0 +1,25 @@
+{
+    "name": "Billy Weaver",
+    "age": 27,
+    "address": {
+        "street": "Brewer Crossing",
+        "city": "Mikeport",
+        "state": "New Mexico",
+        "zip": "54559"
+    },
+    "contact": {
+        "phone": "5534419836",
+        "servicePhone": "800797811"
+    },
+    "birthday": "1998-16-02",
+    "ip": "223.18.153.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Good production point animal where. Exactly important should doctor us us store grow. Answer when traditional case.",
+        "bio": "Successful south child may seat always. Already group fly indicate story."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
