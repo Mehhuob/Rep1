@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Smith",
+    "age": 95,
+    "address": {
+        "street": "Garcia Forge",
+        "city": "Sanchezshire",
+        "state": "Kentucky",
+        "zip": "77756"
+    },
+    "contact": {
+        "phone": "757.568.8549x571",
+        "servicePhone": "800806596"
+    },
+    "birthday": "1930-11-10",
+    "ip": "150.201.53.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff clearly laugh or they. Officer cost often business figure try want. Style medical my force contain mean.\nFoot play forward dark I none. Behind under or guy produce.",
+        "bio": "Animal safe front accept address exactly do. Play pressure meet read member. Response reality pretty war real school where."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

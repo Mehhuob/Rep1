@@ -1,0 +1,25 @@
+{
+    "name": "Laura Henderson",
+    "age": 3,
+    "address": {
+        "street": "Sandra Underpass",
+        "city": "Singhtown",
+        "state": "Georgia",
+        "zip": "33949"
+    },
+    "contact": {
+        "phone": "4172701019",
+        "servicePhone": "800896309"
+    },
+    "birthday": "2022-28-05",
+    "ip": "47.218.231.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Election southern decision white game soldier use. Accept game plan middle above board check full. Small either summer myself.\nReal pass court baby seek.",
+        "bio": "Choose gas produce stuff mention method turn leave. Wife fund money understand. Give democratic central large also finally like party.\nDream kind much hot. Challenge car guy start early federal."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

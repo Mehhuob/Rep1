@@ -1,0 +1,25 @@
+{
+    "name": "Robert Price",
+    "age": 10,
+    "address": {
+        "street": "Brian Harbors",
+        "city": "East Kristineside",
+        "state": "Colorado",
+        "zip": "80320"
+    },
+    "contact": {
+        "phone": "+1-624-730-3846x92731",
+        "servicePhone": "800181509"
+    },
+    "birthday": "2015-11-09",
+    "ip": "87.105.112.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead world network write. Street general this season art stop easy. Artist series his price.\nAge history set teacher. Century short west back particular model.",
+        "bio": "Ability cultural no picture. Middle sit PM clearly.\nService write remember. Past bank surface war claim our side.\nTen rest large pull."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
