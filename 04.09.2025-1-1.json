@@ -1,0 +1,25 @@
+{
+    "name": "Gary Daniel",
+    "age": 28,
+    "address": {
+        "street": "Cochran Crossing",
+        "city": "Lake Jayshire",
+        "state": "Arizona",
+        "zip": "54281"
+    },
+    "contact": {
+        "phone": "001-263-534-7217x7641",
+        "servicePhone": "800459297"
+    },
+    "birthday": "1997-27-12",
+    "ip": "151.13.223.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Return not popular door management. North mention instead beat probably whose really.\nBy among clear for effort true win bill. Prepare near share line.",
+        "bio": "Local toward as. Ok identify beautiful create morning when. East together outside summer customer allow sport. Require tough dark value something yes bring everything."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

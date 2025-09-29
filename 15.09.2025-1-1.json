@@ -1,0 +1,25 @@
+{
+    "name": "Gary Howard",
+    "age": 46,
+    "address": {
+        "street": "Ronald Mountains",
+        "city": "Morenoborough",
+        "state": "Montana",
+        "zip": "18787"
+    },
+    "contact": {
+        "phone": "(395)441-1134",
+        "servicePhone": "800776031"
+    },
+    "birthday": "1979-07-12",
+    "ip": "115.67.162.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind man hour play anyone reflect student. Bag bring follow enough.\nStructure argue hair minute firm ground ahead.",
+        "bio": "Money investment finish. Common us different minute question school cost kid. Together manage happen model charge wish guess base.\nModel wrong leg. Store under major huge build main beat."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
