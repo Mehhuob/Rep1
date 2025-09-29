@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Wolfe",
+    "age": 18,
+    "address": {
+        "street": "Gibbs Field",
+        "city": "Debbiefort",
+        "state": "Indiana",
+        "zip": "67552"
+    },
+    "contact": {
+        "phone": "8336342842",
+        "servicePhone": "800530775"
+    },
+    "birthday": "2007-12-12",
+    "ip": "88.136.195.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun thousand however theory left cover fast.\nBig I move forward. Glass consider short.\nJoin language structure measure. Natural question build explain.",
+        "bio": "Truth without paper among miss. Garden of anything election yes term of. Decade least past claim son draw."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
