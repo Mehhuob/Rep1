@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Nichols",
+    "age": 64,
+    "address": {
+        "street": "Gonzalez Brook",
+        "city": "Johnnyview",
+        "state": "Maine",
+        "zip": "80536"
+    },
+    "contact": {
+        "phone": "(248)486-6439",
+        "servicePhone": "800153228"
+    },
+    "birthday": "1961-24-03",
+    "ip": "36.97.184.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman choice rule foot. Care many apply loss office. Gas appear together commercial.\nDespite size quality go authority. Start as forward writer whom particularly prevent.",
+        "bio": "Keep cup off thank. Word within including across line. Effect happen him fast.\nImage place behavior soldier common soldier seek. Year have price."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
